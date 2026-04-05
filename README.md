@@ -1,1 +1,1 @@
-# database---inventory
+# database-inventory
